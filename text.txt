@@ -1,2 +1,3 @@
 add some text
 adding line1
+adding line2
